@@ -68,7 +68,7 @@
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 20px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
     
@@ -80,6 +80,13 @@
     #second {
         font-size: 30px;
         position:absolute; top:450px; left:190px; width:80px; height:40px;   
+    }
+
+    #clock {
+        color: purple;
+        font-size: 20px;
+        position: absolute; top: 100px; 
+        left: 60%; width: 20%; height: 90px;
     }
     
     input[type=number] {text-align: right;}
